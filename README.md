@@ -1,10 +1,13 @@
+(https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/329923029_495365272776243_1225612809886584356_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEACqK0w-dGyysXrx8IcGlORiaMZV7D8DRGJoxlXsPwNFXmuhIrJjfEBw_wwp4ml7UeO1qdYfjtwmGupg3HAiSJ&_nc_ohc=oxqOH4dajEwAX_UgCm7&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AfAkOPxDyNijqJPpWPWcdxKCTn7-5j5T5TtcnGAHf7e1LQ&oe=6475C429)
 ### Hi there 👋,  i'm Zihad Shariar
 #### Intership trainee fullstack asp .NET web development at DevSkill
-![Intership trainee fullstack asp .NET web development at DevSkill](https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/329923029_495365272776243_1225612809886584356_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEACqK0w-dGyysXrx8IcGlORiaMZV7D8DRGJoxlXsPwNFXmuhIrJjfEBw_wwp4ml7UeO1qdYfjtwmGupg3HAiSJ&_nc_ohc=oxqOH4dajEwAX_UgCm7&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AfAkOPxDyNijqJPpWPWcdxKCTn7-5j5T5TtcnGAHf7e1LQ&oe=6475C429)
+![Intership trainee fullstack asp .NET web development at DevSkill]
 
 A passionate Bangladeshi 🇧🇩 ASP.NET full stack web developer with expertise in building robust and scalable web applications. I have a strong foundation in front-end development, back-end programming, and the overall software development life cycle. With a keen eye for detail and a dedication to delivering high-quality code, I strive to create exceptional user experiences through innovative web solutions.
 
-Skills: SQL / ASP .Net / C# / HTML / CSS/BootStrap
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+
 
 - 🔭 I’m currently working on various project 
 - 🌱 I’m currently learning more about Asp .NET full stack web development 
