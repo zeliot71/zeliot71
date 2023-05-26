@@ -1,4 +1,4 @@
-<p><img align="center" src="https://web.facebook.com/photo/?fbid=1523268591529507&set=a.179926005863779" alt="zeliot71" /></p>
+<a href="https://web.facebook.com/photo/?fbid=1523268591529507&set=a.179926005863779" align="center">Banner</a>
 <h1 align="center">Hi 👋, I'm Zihad Shariar</h1>
 <h3 align="center">A passionate Asp .Net developer from Bangladesh</h3>
 
