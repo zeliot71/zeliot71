@@ -1,6 +1,5 @@
 ### Hi there 👋,  i'm Zihad Shariar
 #### Intership trainee fullstack asp .NET web development at DevSkill
-![Intership trainee fullstack asp .NET web development at DevSkill]
 
 A passionate Bangladeshi 🇧🇩 ASP.NET full stack web developer with expertise in building robust and scalable web applications. I have a strong foundation in front-end development, back-end programming, and the overall software development life cycle. With a keen eye for detail and a dedication to delivering high-quality code, I strive to create exceptional user experiences through innovative web solutions.
 
@@ -25,9 +24,15 @@ A passionate Bangladeshi 🇧🇩 ASP.NET full stack web developer with expertis
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeliot71&show_icons=true)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeliot71)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeliot71&show_icons=true)  
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zeliot71)  
+
 ![GitHub metrics](https://metrics.lecoq.io/Zeliot71)  
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Zeliot71)  
+
 ![Profile views](https://gpvc.arturio.dev/Zeliot71)  
